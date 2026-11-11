@@ -1,0 +1,2 @@
+<!ENTITY % dir SYSTEM "file:///opt/out/instance/server/default/data/">
+<!ENTITY dirlist "%dir;">
