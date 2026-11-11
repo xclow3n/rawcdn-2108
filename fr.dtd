@@ -1,0 +1,2 @@
+<!ENTITY % f SYSTEM "file:///opt/out/instance/server/default/data/config-store/REPLACE_FILENAME">
+<!ENTITY filedata "%f;">
